@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iVapor
 - 👀 I’m interested in Front-end.
-- 🌱 I’m currently learning mini-app.
+- 🌱 I’m currently working on Vite.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
